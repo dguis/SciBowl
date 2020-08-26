@@ -1,5 +1,7 @@
 # SciBowl (name in progress)
 
+[Object Brainstorm](http://yuml.me/preview/2600a1b8)
+
 ## Overview
 An advanced program for science bowl training that will analyze rounds to provide statistics as well as use machine learning to teach players in areas they may not be as familiar.
 
