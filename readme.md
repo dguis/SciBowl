@@ -17,11 +17,16 @@ An advanced program for science bowl training that will analyze rounds to provid
 
 ## Possible Features
 - GUI for training
+    - Display of questions as text
+    - Auto question reader
 - Round selection
+    - Allow players to choose what rounds/categories they want to play
 - Greater customizability
     - Specific category selection
     - Specific difficulty selection
 - Round timers and controls
+    - Stop reading when buzzed
+    - Simulate real round
 - Buzzer system integration
 
 ## Resources
