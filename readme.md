@@ -1,5 +1,5 @@
 # SciBowl (name in progress)
-![Python application](https://github.com/dguis/SciBowl/workflows/Python%20application/badge.svg) ![Unit Tests](https://github.com/dguis/SciBowl/workflows/Tester/badge.svg)
+![Linter](https://github.com/dguis/SciBowl/workflows/Linter/badge.svg) ![Unit Tests](https://github.com/dguis/SciBowl/workflows/Tester/badge.svg)
 
 [Object Brainstorm](http://yuml.me/dguisti/preview/scibowl)
 
