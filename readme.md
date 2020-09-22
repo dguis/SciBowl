@@ -3,6 +3,8 @@
 
 [Object Brainstorm](http://yuml.me/dguisti/preview/scibowl)
 
+![Object Brainstorm Image](https://yuml.me/dguisti/scibowl.png)
+
 ## Overview
 An advanced program for science bowl training that will analyze rounds to provide statistics as well as use machine learning to teach players in areas they may not be as familiar.
 
