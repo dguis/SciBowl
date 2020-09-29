@@ -1,7 +1,9 @@
 # SciBowl (name in progress)
-![Python application](https://github.com/dguis/SciBowl/workflows/Python%20application/badge.svg) ![Unit Tests](https://github.com/dguis/SciBowl/workflows/Tester/badge.svg)
+![Linter](https://github.com/dguis/SciBowl/workflows/Linter/badge.svg) ![Unit Tests](https://github.com/dguis/SciBowl/workflows/Unit%20Tests/badge.svg)
 
 [Object Brainstorm](http://yuml.me/dguisti/preview/scibowl)
+
+![Object Brainstorm Image](https://yuml.me/dguisti/scibowl.png)
 
 ## Overview
 An advanced program for science bowl training that will analyze rounds to provide statistics as well as use machine learning to teach players in areas they may not be as familiar.
