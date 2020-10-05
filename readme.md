@@ -8,7 +8,7 @@ An advanced program for science bowl training that will analyze rounds to provid
 
 > Launched in 1991, the National Science Bowl® (NSB) is a highly competitive science education and academic event among teams of high school and middle school students who compete in a fast-paced verbal forum to solve technical problems and answer questions in all branches of science and math. Each team is composed of four students, one alternate student, and a coach. Regional and national events encourage student involvement in math and science activities of importance to the Department of Energy and the Nation. 
 
-[US DOE Website](https://science.osti.gov/wdts/nsb/About)
+[- US DOE Website](https://science.osti.gov/wdts/nsb/About)
 
   
 
@@ -160,6 +160,6 @@ GUI --> QuestionAsker
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFNjaWVuY2UgQm93bCBQcm
 9qZWN0IFByb3Bvc2FsXG5hdXRob3I6IERhbGxpbiBHdWlzdGlc
-biIsImhpc3RvcnkiOlstNTI1MTEzNDE4LC0yMDQ3ODU2Mzk3XX
+biIsImhpc3RvcnkiOlstNjUyNDExNTExLC0yMDQ3ODU2Mzk3XX
 0=
 -->
