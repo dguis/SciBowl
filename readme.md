@@ -103,7 +103,7 @@ Analyzer --> Database
 This is a demo of how the program might function as a whole.
 ```mermaid
 graph TD
-Main{Main;hi}
+Main{Main}
 User
 GUI
 Extractor
@@ -158,6 +158,6 @@ GUI --> QuestionAsker
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFNjaWVuY2UgQm93bCBQcm
 9qZWN0IFByb3Bvc2FsXG5hdXRob3I6IERhbGxpbiBHdWlzdGlc
-biIsImhpc3RvcnkiOls2NzQwNjg5OTcsLTc2MzI5MDE1MSwtNj
-UyNDExNTExLC0yMDQ3ODU2Mzk3XX0=
+biIsImhpc3RvcnkiOlstNDA0MDEwMjQzLC03NjMyOTAxNTEsLT
+Y1MjQxMTUxMSwtMjA0Nzg1NjM5N119
 -->
