@@ -103,7 +103,7 @@ Analyzer --> Database
 This is a demo of how the program might function as a whole.
 ```mermaid
 graph TD
-Main{Main}
+Main{Main;hi}
 User
 GUI
 Extractor
@@ -128,8 +128,6 @@ GUI --> QuestionAsker
 ```
 
 ### CRC Cards
-
-### Object Layout
 
 ### More Specific Class Features
 
@@ -160,6 +158,6 @@ GUI --> QuestionAsker
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFNjaWVuY2UgQm93bCBQcm
 9qZWN0IFByb3Bvc2FsXG5hdXRob3I6IERhbGxpbiBHdWlzdGlc
-biIsImhpc3RvcnkiOlstNzYzMjkwMTUxLC02NTI0MTE1MTEsLT
-IwNDc4NTYzOTddfQ==
+biIsImhpc3RvcnkiOls2NzQwNjg5OTcsLTc2MzI5MDE1MSwtNj
+UyNDExNTExLC0yMDQ3ODU2Mzk3XX0=
 -->
