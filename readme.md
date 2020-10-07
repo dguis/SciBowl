@@ -123,6 +123,7 @@ QuestionAsker --> Analyzer
 Analyzer --> Database
 Analyzer --> GUI
 Database --> Main
+Database --> Analyzer
 GUI --> QuestionAsker
 
 ```
@@ -158,6 +159,7 @@ GUI --> QuestionAsker
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFNjaWVuY2UgQm93bCBQcm
 9qZWN0IFByb3Bvc2FsXG5hdXRob3I6IERhbGxpbiBHdWlzdGlc
-biIsImhpc3RvcnkiOlsxMzA3MDY0NzM2LC00MDQwMTAyNDMsLT
-c2MzI5MDE1MSwtNjUyNDExNTExLC0yMDQ3ODU2Mzk3XX0=
+biIsImhpc3RvcnkiOlstMTE5MDA3MTU3NywxMzA3MDY0NzM2LC
+00MDQwMTAyNDMsLTc2MzI5MDE1MSwtNjUyNDExNTExLC0yMDQ3
+ODU2Mzk3XX0=
 -->
