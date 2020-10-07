@@ -116,6 +116,8 @@ Main --> Extractor
 Main --> User
 User --> Main
 User --> Database
+User --> QuestionAsker
+QuestionAsker --> User
 Extractor --> QuestionAsker
 Extractor --> Analyzer
 QuestionAsker --> GUI
@@ -159,7 +161,7 @@ GUI --> QuestionAsker
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFNjaWVuY2UgQm93bCBQcm
 9qZWN0IFByb3Bvc2FsXG5hdXRob3I6IERhbGxpbiBHdWlzdGlc
-biIsImhpc3RvcnkiOlstMTE5MDA3MTU3NywxMzA3MDY0NzM2LC
-00MDQwMTAyNDMsLTc2MzI5MDE1MSwtNjUyNDExNTExLC0yMDQ3
-ODU2Mzk3XX0=
+biIsImhpc3RvcnkiOlstMTAwMjI1NzYxOSwtMTE5MDA3MTU3Ny
+wxMzA3MDY0NzM2LC00MDQwMTAyNDMsLTc2MzI5MDE1MSwtNjUy
+NDExNTExLC0yMDQ3ODU2Mzk3XX0=
 -->
