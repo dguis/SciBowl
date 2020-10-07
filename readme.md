@@ -129,7 +129,7 @@ GUI --> QuestionAsker
 
 ### CRC Cards
 
-### More Specific Class Features
+### Object Interfaces
 
 ### GUI Layout
 
@@ -158,6 +158,6 @@ GUI --> QuestionAsker
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFNjaWVuY2UgQm93bCBQcm
 9qZWN0IFByb3Bvc2FsXG5hdXRob3I6IERhbGxpbiBHdWlzdGlc
-biIsImhpc3RvcnkiOlstNDA0MDEwMjQzLC03NjMyOTAxNTEsLT
-Y1MjQxMTUxMSwtMjA0Nzg1NjM5N119
+biIsImhpc3RvcnkiOlsxMzA3MDY0NzM2LC00MDQwMTAyNDMsLT
+c2MzI5MDE1MSwtNjUyNDExNTExLC0yMDQ3ODU2Mzk3XX0=
 -->
