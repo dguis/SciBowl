@@ -133,11 +133,11 @@ GUI --> QuestionAsker
 ### CRC Cards
 ![CRC Cards](https://scibowl.dodecabyte.com/img/Scibowl%20CRC.png)
 ### Object Interfaces
-![enter image description here](https://scibowl.dodecabyte.com/img/interfaces.png)
+![Object Interfaces](https://scibowl.dodecabyte.com/img/interfaces.png)
 ### GUI Layout
-
+*Still in progress*
 ### GUI Object Layout
-
+*Still in progress*
 
 
 ## Resources
@@ -163,8 +163,8 @@ GUI --> QuestionAsker
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFNjaWVuY2UgQm93bCBQcm
 9qZWN0IFByb3Bvc2FsXG5hdXRob3I6IERhbGxpbiBHdWlzdGlc
-biIsImhpc3RvcnkiOlszMDgzNzUxNzcsMTI5ODYxODM5LDE0OD
-U3NzUxMzUsLTEwMDIyNTc2MTksLTExOTAwNzE1NzcsMTMwNzA2
-NDczNiwtNDA0MDEwMjQzLC03NjMyOTAxNTEsLTY1MjQxMTUxMS
-wtMjA0Nzg1NjM5N119
+biIsImhpc3RvcnkiOlstMTYxMTIxMjUxMSwxMjk4NjE4MzksMT
+Q4NTc3NTEzNSwtMTAwMjI1NzYxOSwtMTE5MDA3MTU3NywxMzA3
+MDY0NzM2LC00MDQwMTAyNDMsLTc2MzI5MDE1MSwtNjUyNDExNT
+ExLC0yMDQ3ODU2Mzk3XX0=
 -->
